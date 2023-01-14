@@ -66,6 +66,7 @@ main {
     grid-template-columns: repeat(3, 1fr);
     column-gap: 100px;
     row-gap: 30px;
+  
 }
 
 .players img {
@@ -192,6 +193,7 @@ Mobile Device
     }
     .player{
         flex-direction: column;
+        ;
     }
     .section-tittle{
         display: flex;
